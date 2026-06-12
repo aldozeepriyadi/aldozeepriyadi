@@ -8,7 +8,7 @@ Saya seorang IT student yang passionate tentang teknologi dan development. Fokus
 
 ## 🚀 Portfolio & Projek
 
-Lihat portfolio lengkap saya di: **[aldo-portofolio.vercel.app](https://aldozeepriyadi.github.io/aldo-portofolio)**
+Lihat portfolio lengkap saya di: **[aldo-portofolio.vercel.app](https://aldo-portofolio.vercel.app)**
 
 Atau visit repository: **[@aldo-portofolio](https://github.com/aldozeepriyadi/aldo-portofolio)**
 
